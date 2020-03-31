@@ -1,0 +1,24 @@
+#img1{
+    height: 90vh;
+}
+
+.container{
+    /* border: 2px solid red; */
+    margin-top: 20vh;
+}
+.lead{
+    color: #292A63;
+}
+.div1{
+    background-color: #FCFCFC;
+    height: 100vh;
+}
+.btn btn-primary{
+    float: right;
+}
+#button{
+    margin-left: 112px;
+}
+#img2{
+    filter: grayscale(100%);
+}
